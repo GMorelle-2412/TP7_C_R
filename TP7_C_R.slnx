@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Ex1/Ex1.vcxproj" Id="53d2bf3f-70f5-4098-8683-0abc7f9fc28b" />
+  <Project Path="TP 7 Partie QT/TP 7 Partie QT.vcxproj" Id="12225f8e-bbc5-4712-9402-804aa97542de">
+    <Platform Project="x64" />
+  </Project>
+</Solution>
