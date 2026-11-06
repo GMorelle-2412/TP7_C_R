@@ -6,5 +6,4 @@ TP7PartieQT::TP7PartieQT(QWidget *parent)
     ui.setupUi(this);
 }
 
-TP7PartieQT::~TP7PartieQT()
-{}
+TP7PartieQT::~TP7PartieQT(){}
